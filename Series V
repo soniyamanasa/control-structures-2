@@ -1,0 +1,5 @@
+n=int(input())
+x=7
+for i in range(0,n):
+    x=x+4
+    print(x**2)
